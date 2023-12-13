@@ -2,10 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gdr0ge.github.io/categories/</loc>
+    <loc>https://gdr0ge.github.com/posts/2023-12-12-my-special-post/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gdr0ge.github.io/</loc>
+    <loc>https://gdr0ge.github.com/posts/2023-12-12-my-second-post/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gdr0ge.github.io/tags/</loc>
+    <loc>https://gdr0ge.github.com/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdr0ge.github.com/posts/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gdr0ge.github.com/archives/</loc>
+  </url><url>
+    <loc>https://gdr0ge.github.com/categories/</loc>
+  </url><url>
+    <loc>https://gdr0ge.github.com/search/</loc>
+  </url><url>
+    <loc>https://gdr0ge.github.com/series/</loc>
+  </url><url>
+    <loc>https://gdr0ge.github.com/tags/</loc>
   </url>
 </urlset>
